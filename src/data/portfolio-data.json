@@ -1,0 +1,157 @@
+{
+  "technologies": [
+    {
+      "name": "JavaScript",
+      "logo": "./src/images/technologies/js.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "./src/images/technologies/ts.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "./src/images/technologies/mysql.svg"
+    },
+    {
+      "name": "React",
+      "logo": "./src/images/technologies/react_logo.svg"
+    },
+    {
+      "name": "Linux",
+      "logo": "./src/images/technologies/linux_logo.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "logo": "./src/images/technologies/bootstrap.svg"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Organo Project",
+      "description": "Organograma de Colaboradores",
+      "cover": "./src/images/projects/organo.png",
+      "features": [
+        "Components",
+        "Cards dinâmicos"
+      ],
+      "livePreview": "https://organo-chi-three.vercel.app/",
+      "repository": "https://github.com/MTaranto/organo"
+    },
+    {
+      "title": "The Pokedex",
+      "description": "Pokedex com todos os pokemons até a 2ª geração",
+      "cover": "./src/images/projects/pokedex-img.png",
+      "features": [
+        "Utilizando API PokéAPI",
+        "Abertura do card, dinamicamente, com detalhes",
+        "Responsividade"
+      ],
+      "livePreview": "https://mtaranto.github.io/js-developer-pokedex/",
+      "repository": "https://github.com/MTaranto/js-developer-pokedex"
+    },
+    {
+      "title": "Calculadora de IMC",
+      "description": "Calcula o Índice de Massa Corporal",
+      "cover": "./src/images/projects/imc.png",
+      "features": [
+        "Components",
+        "Cards e cores dinâmicos",
+        "Responsividade"
+      ],
+      "livePreview": "https://mtaranto.github.io/react_calc_imc/",
+      "repository": "https://github.com/MTaranto/react_calc_imc"
+    },
+    {
+      "title": "Jogo Detona Ralph",
+      "description": "Joguinho passatempo onde devemos clicar onde o Ralph aparecer",
+      "cover": "./src/images/projects/ralph.png",
+      "features": [
+        "Seleção de nível de dificuldade",
+        "Clean Code"
+      ],
+      "livePreview": "https://mtaranto.github.io/detona-ralph-game/",
+      "repository": "https://github.com/MTaranto/detona-ralph-game"
+    }
+  ],
+  "courses": [
+    {
+      "title": "Formação React - T5-ONE",
+      "provider": "Alura / Oracle",
+      "date": "Set 2023",
+      "duration": "63h",
+      "description":"Curso realizado pela Alura em parceria com a Oracle Next Education, com um total de 6 cursos de fomação, sendo eles:<br><br>• React: desenvolvendo com JavaScript<br>• React: como os componentes funcionam<br>• React: desenvolvendo em React Router com JavaScript<br>• React: Function Components, uma abordagem moderna<br>• React: Hooks, Contextos e boas práticas<br>• React: praticando React com Js<br> <br>Tendo um total de 267 atiovidades realizadas",
+      "link": "https://cursos.alura.com.br/degree/certificate/93f32610-3de9-49c1-9fdf-bc7d1ab0ff7b?lang=pt_BR"
+    },
+    {
+      "title": "Formação Front End - T5-ONE",
+      "provider": "Alura / Oracle",
+      "date": "Ago 2023",
+      "duration": "74h",
+      "description": "Curso realizado pela Alura em parceria com a Oracle Next Education, com um total de 9 cursos de fomação, sendo eles:<br><br>• Flexbox: posicione elementos na tela<br>• Layouts Responsivos: trabalhando com layouts mobile<br>• Arquitetura CSS: descomplicando os problemas<br>• JavaScript: explorando a linguagem<br>• JavaScript na Web: manipule o DOM com JavaScript<br>• JavaScript: métodos de array<br>• JavaScript: consumindo e tratando dados de uma API<br>• JavaScript: criando requisições<br>• JavaScript: validando formulários<br> <br> Realizando um total de 375 atividades",
+      "link": "https://cursos.alura.com.br/degree/certificate/a53eb5a6-48e9-4217-8540-f713ea102f6f?lang=pt_BR"
+    },
+    {
+      "title": "Formação SQL com MySQL Server da Oracle",
+      "provider": "Alura / Oracle",
+      "date": "Nov 2023",
+      "duration": "66h",
+      "description": "Curso realizado pela Alura em parceria com a Oracle Next Education, com um total de 5 cursos de fomação, sendo eles:<br><br>• SQL com MySQL: manipule e consulte dados<br>• Consultas SQL: avançando no SQL com MySQL<br>• Comandos DML: manipulação de dados com MySQL<br>• Procedures SQL: executando código no MySQL<br>• Administração do MySQL: segurança e otimização do banco<br> <br> Realizando um total de 326 atividades",
+      "link": "https://cursos.alura.com.br/degree/certificate/8f222e56-aac6-4f88-8bbd-faad53fb3fbf?lang=pt_BR"
+    },
+    {
+      "title": "Formação Oracle Cloud Infraestructure - ONE",
+      "provider": "Alura / Oracle",
+      "date": "Dez 2023",
+      "duration": "21h",
+      "description": "Curso realizado pela Alura em parceria com a Oracle Next Education, com um total de 2 cursos de fomação, sendo eles:<br><br>• Oracle Cloud Infrastructure: implantação de uma aplicação na nuvem<br>• Oracle Cloud Infrastructure: banco de dados e infraestrutura como código<br> <br> Realizando um total de 91 atividades",
+      "link": "https://cursos.alura.com.br/degree/certificate/81ef9ffb-4971-4ef6-8a68-05c19b028dc9?lang=pt_BR"
+    },
+    {
+      "title": "Git / Github",
+      "provider": "B7Web",
+      "date": "Jan 2023",
+      "duration": "20h",
+      "description": "Curso realizado pela B7Web com os seguintes tópicos:<br><br>• Criação e manipulação de branches<br>• Merge: Resolvendo conflitos<br>• Github Desktop<br>• Gitflow<br> <br> Entre outros...",
+      "link": "https://alunos.b7web.com.br/media/certificates/certificado_580782.jpg"
+    },
+    {
+      "title": "JavaScript",
+      "provider": "B7Web",
+      "date": "Jan 2023",
+      "duration": "73h",
+      "description": "Curso realizado pela B7Web abordando assuntos como: POO, Classes, Constructor, Arrow Functions, entre outros. Realização de diversos projetos práticos ao final do curso.",
+      "link": "https://alunos.b7web.com.br/media/certificates/certificado_580782.jpg"
+    },
+    {
+      "title": "Linux Experience",
+      "provider": "Digital Innovation One",
+      "date": "Ago 2022",
+      "duration": "42h",
+      "description": "Bootcamp realizado DIO com os seguintes cursos:<br><br>• Docker: Utilização Prática no Cenário de Microsserviços<br>• Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)<br>• Servidor de Banco de Dados com Linux<br>• Gerenciamento de Pacotes Linux<br>• Criando um Servidor Web com Linux<br>• Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões<br>• Gerenciamento de Discos Linux<br>• Gerenciando Usuários no Linux<br>• Acesso Remoto a Máquinas Linux<br> <br> Entre outros",
+      "link": "https://hermes.dio.me/certificates/B7A2FD54.pdf"
+    }
+
+  ],
+  "personalInfo": {
+    "location": "Volta Redonda-RJ",
+    "role": "Desenvolvedor Front-End",
+    "about": "Apaixonado por música, tecnologia e futebol. Meu primeiro contato com tecnologia foi aos 12 anos, quando ganhei uma bolsa para um curso de BASIC, realizado em um clássico CP500. A vida me levou para outros caminhos. Mas hoje reencontrei a minha paixão e resolvi dar esse passo importante: Transicionar minha carreira! Atualmente curso Análise e Desenvolvimento de Sistemas, além de cursos livres de JavaScript, ReactJS, MySQL, Linux, entre outros. Terminando essa graduação, iniciarei Engenharia de Software, já em fevereiro próximo.",
+    "languages": [
+      {
+        "name": "Inglês",
+        "level": "Intermediário"
+      },
+      {
+        "name": "Espanhol",
+        "level": "Noções"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "role": "Desenvolvedor",
+      "type": "Projetos pessoais",
+      "description": "Produção de landing pages, sites, módulos e pequenos jogos visando construir uma base no Desenvolvimento Front-end."
+    }
+  ]
+}
